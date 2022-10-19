@@ -15,7 +15,7 @@
     "mongodb"
   ],
   "dependencies": {
-    "mongodb": "3.0.1"
+    "mongodb": "4.11.0"
   },
   "standard": {
     "env": {
